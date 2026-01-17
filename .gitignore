@@ -1,0 +1,16 @@
+# Ignore all text files (inputs)
+*.txt
+*.bin
+*.exe
+*.o
+*.obj
+
+# Ignore binaries (no extension on linux/wsl)
+quantum_crypto/aes_test
+quantum_crypto/quantum_crypto
+
+# VS Code
+.vscode/
+
+# Keep specific files if needed, but the pattern above is broad.
+# We will forcingly add the source files.
