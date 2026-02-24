@@ -68,6 +68,27 @@ The tool generates a detailed report comparing:
 2.  **Throughput**: Encryption/Decryption speeds for 10KB, 10MB, and 100MB payloads.
 3.  **Overhead**: The specific cost added by the Post-Quantum handshake in a Hybrid workflow.
 
----
-*Developed for Security Project - Spring 2026*
+## **Contributors**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/SajeevSenthil?s=300" width="100" alt="Sajeev Senthil" /><br/>
+      <a href="https://github.com/SajeevSenthil"><b>Sajeev Senthil</b></a>
+    </td>
+        <td align="center">
+      <img src="https://avatars.githubusercontent.com/hari23228?s=300" width="100" alt="Hari Varthan" /><br/>
+      <a href="https://github.com/hari23228"><b>Hari Varthan</b></a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/FightKlub?s=300" width="100" alt="DJR" /><br/>
+      <a href="https://github.com/FightKlub"><b>Dennis Jerome Richard </b></a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/Jopan?s=300" width="100" alt="Jopan" /><br/>
+      <a href="https://github.com/Jopan"><b>Joseph Binu George</b></a>
+    </td>
+  </tr>
+</table>
+
 
